@@ -2,7 +2,7 @@
 
 Learn Documentation and about OpenCV history stuff on OpenCV website here. (https://opencv.org/)
 
-Installing 
+## Installing 
 __________
 
 * run **pip install opencv-python** if you need only main modules
