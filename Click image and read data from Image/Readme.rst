@@ -23,6 +23,6 @@ Run command on CLI:
     python click_image.py
     
     
-![Captured Image](images/capture_image.PNG)
+.. image:: images/capture_image.PNG
 
-![Data from Captured Image](images/data_from image.PNG)
+.. image:: images/data_from image.PNG
