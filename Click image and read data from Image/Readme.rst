@@ -12,6 +12,7 @@ Run command on CLI:
 
     python open_webcam.py
 
+.. image:: images/capture_image.PNG
 
 Capture Image and Read data from captured image
 ----------
@@ -22,7 +23,5 @@ Run command on CLI:
 
     python click_image.py
     
-    
-.. image:: images/capture_image.PNG
-
+   
 .. image:: images/data_from image.PNG
