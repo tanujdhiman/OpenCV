@@ -1,5 +1,6 @@
 # OpenCV
 
+OpenCV is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection. In this tutorial, we explain how you can use OpenCV in your applications.
 Learn Documentation and about OpenCV history stuff on OpenCV website here. (https://opencv.org/)
 
 ## Installing 
