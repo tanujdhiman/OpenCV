@@ -1,9 +1,9 @@
 In this topic, I discussed about how to read images OpenCV. We can read these images colored, gray or unchanged by using fuctions of OpenCV.
 
 These are the functions used for read images in different formats :
-* cv2.imread(image_name, cv2.IMREAD_COLOR)
-* cv2.imread(image_name, cv2.IMREAD_GRAYSCALE)
-* cv2.imread(image_name, cv2.IMREAD_UNCHANGED)
+1. cv2.imread(image_name, cv2.IMREAD_COLOR)
+2. cv2.imread(image_name, cv2.IMREAD_GRAYSCALE)
+3. cv2.imread(image_name, cv2.IMREAD_UNCHANGED)
 
 ## Explaination :
 _________________
