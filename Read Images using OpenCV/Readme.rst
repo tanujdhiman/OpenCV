@@ -3,8 +3,8 @@ In this topic, I discussed about how to read images OpenCV. We can read these im
 These are the functions used for read images in different formats :
 ___________________________
 
-* cv2.imread(image_name, cv2.IMREAD_COLOR)<br>
-* cv2.imread(image_name, cv2.IMREAD_GRAYSCALE)<br>
+* cv2.imread(image_name, cv2.IMREAD_COLOR)
+* cv2.imread(image_name, cv2.IMREAD_GRAYSCALE)
 * cv2.imread(image_name, cv2.IMREAD_UNCHANGED)
 
 **Explaination :**
