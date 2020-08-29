@@ -15,9 +15,9 @@ _______________
 
 ![](https://pyimagesearch.com/wp-content/uploads/2017/08/faster_for_loop_header.png)
 
-Homepage: https://opencv.org
-Courses: https://opencv.org/courses
-Docs: https://docs.opencv.org/master/
-Q&A forum: http://answers.opencv.org
-Issue tracking: https://github.com/opencv/opencv/issues
-Additional OpenCV functionality: https://github.com/opencv/opencv_contrib
+* Homepage: https://opencv.org
+* Courses: https://opencv.org/courses
+* Docs: https://docs.opencv.org/master/
+* Q&A forum: http://answers.opencv.org
+* Issue tracking: https://github.com/opencv/opencv/issues
+* Additional OpenCV functionality: https://github.com/opencv/opencv_contrib
