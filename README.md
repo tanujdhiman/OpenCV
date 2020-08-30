@@ -21,3 +21,9 @@ _______________
 * Q&A forum: http://answers.opencv.org
 * Issue tracking: https://github.com/opencv/opencv/issues
 * Additional OpenCV functionality: https://github.com/opencv/opencv_contrib
+
+You can start with a simple model named Finger Recognition I have made with OpenCV.
+
+Link Here :- https://github.com/tanujdhiman/finger_Recoginition
+
+Just go through that notebook you can easily understand by that.
