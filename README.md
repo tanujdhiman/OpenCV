@@ -27,3 +27,4 @@ You can start with a simple model named Finger Recognition I have made with Open
 Link Here :- https://github.com/tanujdhiman/finger_Recoginition
 
 Just go through that notebook you can easily understand by that.
+By this you will get an idea of how can we start and all.
