@@ -28,3 +28,7 @@ Link Here :- https://github.com/tanujdhiman/finger_Recoginition
 
 Just go through that notebook you can easily understand by that.
 By this you will get an idea of how can we start and all.
+
+Opencv is open library by this you can do any task of computer vision like image recognition and all stuff.
+
+To be Continued............
